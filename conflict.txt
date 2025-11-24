@@ -1,1 +1,1 @@
-Original line for conflict test
+Line from branch B
